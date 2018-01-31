@@ -1,0 +1,8 @@
+Programs using mpi and pthreads libraries:-
+
+Vary a lot from with out parallelization codes when dealing with huge data.
+
+1) bucket sort.
+2) finding mutual outlinks.
+3) prime findings in mpi and omp.
+4) sorting using omp.
